@@ -1,0 +1,19 @@
+src/content/docs/moq/demo-streams/index.mdx
+  s_263e349158892d::t_c9eb43c3d01f2b 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0db0b1c346df8c19c3584382b639f5f39b7c2cc1",
+  "prompts": {},
+  "sessions": {
+    "s_263e349158892d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f561fdd93ffeHM1PEfbrTQYLkg",
+        "model": "@cf/zai-org/glm-5.3-flash"
+      },
+      "human_author": "Manish <manishpandit@cloudflare.com>"
+    }
+  }
+}
